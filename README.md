@@ -12,9 +12,12 @@
 
 ## Uygulama Açıklaması
     
-Bu uygulama, kişisel yazıların kaydedilip okuyuculara sunulduğu bir web sitesidir. Yazı ekleyebilmek, düzenleyebilmek ve silebilmek için kayıt olunmalıdır.
+Bu uygulama, kişisel yazıların kaydedilip okuyuculara sunulduğu bir web sitesidir.
 
 Ana sayfada bulunan yazıların daha detaylı okunabilmesi için üstüne tıklayıp daha geniş bir pencereye geçmek gerekmektedir.
+
+Yazı ekleyebilmek, düzenleyebilmek ve silebilmek için kayıt olunmalıdır. Kayıt edilen kullanıcının şifresi şifrelenmiş 
+halde saklanmaktadır. Her kullanıcı sadece kendi yazısı üstünde hakimiyet kurabilmektedir.
 
 Not: Blog yazıları üstünde düzenleme yapabilmek için giriş yapmak gerekmektedir.
 
